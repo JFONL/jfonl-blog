@@ -1,4 +1,4 @@
-baseURL = "https://jfonl.github.io"
+baseURL = "https://jfonl.github.io/jfonl-blog"
 title   = "Welcome"
 
 DefaultContentLanguage = "en"
