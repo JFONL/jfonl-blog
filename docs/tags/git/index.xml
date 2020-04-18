@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>git on Welcome</title>
-    <link>https://jfonl.github.io/tags/git/</link>
+    <link>https://jfonl.github.io/jfonl-blog/tags/git/</link>
     <description>Recent content in git on Welcome</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Sat, 18 Apr 2020 15:16:58 +0800</lastBuildDate>
     
-	<atom:link href="https://jfonl.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jfonl.github.io/jfonl-blog/tags/git/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello</title>
-      <link>https://jfonl.github.io/posts/2020/04/hello/</link>
+      <link>https://jfonl.github.io/jfonl-blog/posts/2020/04/hello/</link>
       <pubDate>Sat, 18 Apr 2020 15:16:58 +0800</pubDate>
       
-      <guid>https://jfonl.github.io/posts/2020/04/hello/</guid>
+      <guid>https://jfonl.github.io/jfonl-blog/posts/2020/04/hello/</guid>
       <description>Hello git clone 213243234243</description>
     </item>
     

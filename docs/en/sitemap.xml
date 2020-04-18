@@ -3,66 +3,66 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jfonl.github.io/tags/git/</loc>
+    <loc>https://jfonl.github.io/jfonl-blog/tags/git/</loc>
     <lastmod>2020-04-18T15:16:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jfonl.github.io/posts/2020/04/hello/</loc>
+    <loc>https://jfonl.github.io/jfonl-blog/posts/2020/04/hello/</loc>
     <lastmod>2020-04-18T15:16:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jfonl.github.io/posts/</loc>
+    <loc>https://jfonl.github.io/jfonl-blog/posts/</loc>
     <lastmod>2020-04-18T15:16:58+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jfonl.github.io/tags/</loc>
+    <loc>https://jfonl.github.io/jfonl-blog/tags/</loc>
     <lastmod>2020-04-18T15:16:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jfonl.github.io/fr/tags/"
+                href="https://jfonl.github.io/jfonl-blog/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jfonl.github.io/tags/"
+                href="https://jfonl.github.io/jfonl-blog/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://jfonl.github.io/about/</loc>
+    <loc>https://jfonl.github.io/jfonl-blog/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jfonl.github.io/</loc>
+    <loc>https://jfonl.github.io/jfonl-blog/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jfonl.github.io/fr/"
+                href="https://jfonl.github.io/jfonl-blog/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jfonl.github.io/"
+                href="https://jfonl.github.io/jfonl-blog/"
                 />
   </url>
   
   <url>
-    <loc>https://jfonl.github.io/categories/</loc>
+    <loc>https://jfonl.github.io/jfonl-blog/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://jfonl.github.io/fr/categories/"
+                href="https://jfonl.github.io/jfonl-blog/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jfonl.github.io/categories/"
+                href="https://jfonl.github.io/jfonl-blog/categories/"
                 />
   </url>
   
